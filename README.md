@@ -1,3 +1,3 @@
 # castom-bh
 https://castom-bh.vercel.app/ \
-https://learn.aptoslabs.com/en/dapp-templates
+https://learn.aptoslabs.com/en/dapp-templates/custom-indexer-template
